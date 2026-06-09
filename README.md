@@ -41,4 +41,5 @@ End-to-end data pipeline thinking: from raw data → insights → dashboards
 ---
 
 ## 📬 Contact
-(Add LinkedIn or email here)
+LinkedIN: www.linkedin.com/in/bunyodbekmamatkulov-data-analyst
+Telegramm: @all_alone_survivor 
